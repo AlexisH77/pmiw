@@ -1,5 +1,6 @@
 // Sergio Jimenez 95898754
 // Alexis Hurtado 96309172
+// El ruido de un truno ( Ray Bradbury)
 // Link de video: adasdasdadasdasdasddasdadasdasdasdasdsasdasdasd
 
 let pantalla = 0;
@@ -171,3 +172,4 @@ function mousePressed() {
     }
   }
 }
+
